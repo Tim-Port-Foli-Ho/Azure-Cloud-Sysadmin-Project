@@ -1,5 +1,5 @@
 # Azure-Cloud-Sysadmin-Project:
-This personal project is an extension of CQU's systemadmin project for COIT13146: System and Network adminstration course.
+This personal project is an extension of CQU's capstone project for COIT13146: System and Network adminstration
 It is rebuilt with: 
 Azure VMs
 Azure Active Directory - Identity management 
